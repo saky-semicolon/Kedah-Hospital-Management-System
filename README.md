@@ -18,7 +18,5 @@ The Kedah Medical Centre HMS aims to:
 - Facilitate seamless communication between patients, doctors, and administrative staff.
 - Optimize resource allocation and streamline workflow.
 
-## Installation
-This section will include instructions for installing and configuring the HMS software. Details on system requirements, dependencies, and setup procedures will be provided here.
 
-# Look for the <a href="https://github.com/saky-semicolon/Kedah-Hospital-Management-System/blob/main/Project%20Report.md">*Project Report*</a> for the whole project details. Thank you!
+# Look at the <a href="https://github.com/saky-semicolon/Kedah-Hospital-Management-System/blob/main/Project%20Report.md">*Project Report*</a> for the whole project details. Thank you!
