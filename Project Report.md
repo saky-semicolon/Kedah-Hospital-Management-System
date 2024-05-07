@@ -4,11 +4,11 @@
 
 **Semester 1 , Academic Session: 2023/2024**
 
-**Project** 
+**Project Report** 
 
 **Group Number: 7**
 
-**Dr. Zurinahni Zainol**
+**Submittet to Dr. Zurinahni Zainol**
 
 **Hospital management system**
 
@@ -20,99 +20,99 @@
 | **S M Asiful Islam Saky** | **AIU22102005** | **asiful.saky\@student.aiu.edu.my**   | **Patient**        | **Member** |
 | **Rukayya Sadiq**         | **AIU21102372** | **rukayya.sadiq\@student.aiu.edu.my** | **Appointment**    | **Member** |
 
-Date of submission
 
-Table of contents
 
-[**1.0 Introduction ****3**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.iqn7s2rpsje9)
+# Table of contents
 
-[1.1 Description of the organization 3](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.f9fpm2pcmoq4)
+[1.0 Introduction]()
 
-[1.2 Description of the current system and its problems 3](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.nyh9tmzq0xy)
+[1.1 Description of the organization]()
 
-[1.3 Motivation 3](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.uhfqvpahojzq)
+[1.2 Description of the current system and its problems]()
 
-[1.4 How the proposed database system will benefit the organization 4](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.h103i9vusmv9)
+[1.3 Motivation]()
 
-[1.5 Describe each module In the hospital management system 4](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.2q7hvuqh1yy6)
+[1.4 How the proposed database system will benefit the organization]()
 
-[1.5.0 Patient Module 4](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.mis9lsujzsf2)
+[1.5 Describe each module In the hospital management system]()
 
-[1.5.1 Doctor Module 4](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.zhp9ptip24no)
+[1.5.0 Patient Module]()
 
-[1.5.2 Appointment Module 5](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.prw1ldtmj4zg)
+[1.5.1 Doctor Module]()
 
-[1.5.3 Medical Record Module: 5](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.vqa2bl8jsmvu)
+[1.5.2 Appointment Module]()
 
-[**2.0 User Requirements and Business Rules ****6**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.cuhkurkbhks8)
+[1.5.3 Medical Record Module]()
 
-[2.1 Patient Module 6](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.ngpfh9ayb0lc)
+[2.0 User Requirements and Business Rules]()
 
-[2.2 Doctor Module 7](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.krshgheybm0p)
+[2.1 Patient Module]()
 
-[2.3 Appointment Module 8](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.ei1t39on1jy3)
+[2.2 Doctor Module]()
 
-[2.4 Medical Record Module 9](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.ylct2rfqbjcj)
+[2.3 Appointment Module]()
 
-[**3.0 Entity relationship modeling ****10**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.qqxln38m4si8)
+[2.4 Medical Record Module]()
 
-[3.1 Patient Module 10](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.49qp3nhofwhp)
+[3.0 Entity relationship modeling]()
 
-[3.2 Doctor Module 12](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.7t164qtw0c2e)
+[3.1 Patient Module]()
 
-[3.3 Appointment Module 14](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.vw9xcpir3r5f)
+[3.2 Doctor Module]()
 
-[3.4 Medical Record Module 16](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.jyd2pqv8jdyn)
+[3.3 Appointment Module]()
 
-[3.5 Hospital management database whole modules 18](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.7djrr9rkx706)
+[3.4 Medical Record Module]()
 
-[**4.0 Normalization ****19**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.8ic03srsbqzb)
+[3.5 Hospital management database whole modules]()
 
-[4.1 Normalization of Patient Module 19](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.vxby983vtb24)
+[4.0 Normalization]()
 
-[4.2 Normalization of Doctor Module 19](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.q826cry0aexp)
+[4.1 Normalization of Patient Module]()
 
-[4.3 Normalization of Appointment Module 20](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.c3hm716yxq75)
+[4.2 Normalization of Doctor Module]() 
 
-[4.4 Normalization of Medical Record Module 21](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.1p7bn05r0xbj)
+[4.3 Normalization of Appointment Module]()
 
-[**5.0 Data dictionary ****21**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.5nbufkkg6z3y)
+[4.4 Normalization of Medical Record Module]()
 
-[5.1 Patient Module 21](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.fvh0zhwiuwh)
+[5.0 Data dictionary]()
 
-[5.2 Doctor Module 23](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.ee2u1ps1a2pr)
+[5.1 Patient Module]()
 
-[5.3 Appointment Module 24](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.dc4qvx225c1l)
+[5.2 Doctor Module]()
 
-[5.4 Medical Record Module 26](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.s8cikax6wqzk)
+[5.3 Appointment Module]()
 
-[**6.0 Data Implementation ****27**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.nmje51jaf3au)
+[5.4 Medical Record Module]()
 
-[6.1 Patient Module 27](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.i8o5qx1f3w3j)
+[6.0 Data Implementation]()
 
-[6.2 Doctors Module 28](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.33kntg8tensh)
+[6.1 Patient Module]()
 
-[6.3 Appointment Module 29](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.dz2z5ancatmr)
+[6.2 Doctors Module]()
 
-[6.4 Medical Record Module 30](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.n8vp78jmrq21)
+[6.3 Appointment Module]()
 
-[**7.0 The Updated ERD ****32**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.euc8y276nx7r)
+[6.4 Medical Record Module]()
 
-[**8.0 Front-End and system implementation ****33**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.m6jytv84pvw)
+[7.0 The Updated ERD]()
 
-[8.1 Generic Pages 33](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.96d3des0r20r)
+[8.0 Front-End and system implementation]()
 
-[8.2 Patient Module 33](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.k69r111oo5dr)
+[8.1 Generic Pages]()
 
-[8.2 Doctors Module 36](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.b3wt3h857lin)
+[8.2 Patient Module]()
 
-[8.3 Appointment Module 38](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.fpfzvmhr3txt)
+[8.2 Doctors Module]()
 
-[8.4 Medical Records Module 38](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.lzr44ta7s9y7)
+[8.3 Appointment Module]()
 
-[**9.0 Pitfalls and obstacles ****40**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.iyvm4vf3zfe2)
+[8.4 Medical Records Module]()
 
-[**10.0 Conclusion ****41**](https://docs.google.com/document/d/1l56VNG9et7DH6hq6cvd7wU_-YR7U1uNnI8NX8zHVl8Q/edit#heading=h.5p7j9jngiu91)
+[9.0 Pitfalls and obstacles]()
+
+[10.0 Conclusion]()
 
 
 # 1.0 Introduction
